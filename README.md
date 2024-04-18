@@ -1,10 +1,6 @@
 # Nexus
  An Advanced AI-Driven Simulation of the Human Immune System
 
-
- |    <img src='https://ais-package.github.io/assets/images/logo-7b415c6841a3ed8a760eff38ecd996b8.svg'/>   |     <h1 class='text-title' align=center>**Artificial Immune Systems Package.**</h1>  |
-|:-------------:|:-------------:|
-
 </div>
 
 ---
