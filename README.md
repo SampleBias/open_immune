@@ -5,7 +5,7 @@
 
 ---
 
-#### Select the language / Selecione o Idioma:
+#### Select the language:
 
 <div class='language-options'>
 
