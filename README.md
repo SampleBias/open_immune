@@ -1,4 +1,4 @@
-# Nexus
+# open_immune
  An Advanced AI-Driven Simulation of the Human Immune System
 
 </div>
